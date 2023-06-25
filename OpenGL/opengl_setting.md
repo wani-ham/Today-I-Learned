@@ -1,3 +1,8 @@
+### 필요한 것
+* [GLEW](https://glew.sourceforge.net/)
+* [GLFW (Windows pre-compiled binaries)](https://www.glfw.org/download.html)
+* [GLM](https://github.com/g-truc/glm/releases/tag/0.9.9.8)
+
 
 ### Error Handling
 * Library directory 등을 다 추가하고 기초 예제를 실행하려고 했는데 0x000007b error가 발생했다. 32bit, 64bit machine 충돌으로 발생할 가능성이 높다. 소스 디렉토리에
