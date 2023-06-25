@@ -1,3 +1,6 @@
+* Date : 2023.06.25
+
+  
 ### 필요한 것
 * [GLEW](https://glew.sourceforge.net/)
 * [GLFW (Windows pre-compiled binaries)](https://www.glfw.org/download.html)
