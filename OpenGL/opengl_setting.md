@@ -10,25 +10,30 @@
 ### Setup Procedure
 1. Make folder "External Libs" at the same level as my project (home) folder.
 2. Put GLEW, GLM, GLFW folder in External Libs
-3. Add "#define GLM_ENABLE_EXPERIMENTAL" at "glm.hpp" in GLM.
+3. Add ```#define GLM_ENABLE_EXPERIMENTAL``` at "glm.hpp" in GLM.
 4. Add Additional Include Directory in Visual Studio (Project Properties > C/C++ > General).
-   '''
+   
+   ```bash
    $(SolutionDir)\..\..\External Libs\GLM
    $(SolutionDir)\..\..\External Libs\GLEW\include
    $(SolutionDir)\..\..\External Libs\GLFW\include
-   '''
+   ```
+   
 5. Add Additional Library Paths in Visual Studio (Project Properties > Linker > General).
-   '''
+ 
+   ```bash
    $(SolutionDir)\..\..\External Libs\GLEW\lib\Release\x64
    $(SolutionDir)\..\..\External Libs\GLFW\\lib-vc2015
-   '''
-6. Add Additional Libraries in Visual Studio (Project Properties > Linker > Input).
-   '''
+   ```
+
+7. Add Additional Libraries in Visual Studio (Project Properties > Linker > Input).
+   ```
    opengl32.lib
    glew32.lib
    glfw3.lib
-   '''
-7. Copy "glew32.dll" to my Project (Also see the first part of "Error Log" in this page)
+   ```
+   
+8. Copy ```glew32.dll``` to my Project (Also see the first part of "Error Log" in this page)
 
 ### Error Log
 * Library directory 등을 다 추가하고 기초 예제를 실행하려고 했는데 0x000007b error가 발생했다. 32bit, 64bit machine 충돌으로 발생할 가능성이 높다. 소스 디렉토리에
