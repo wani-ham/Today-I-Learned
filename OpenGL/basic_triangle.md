@@ -67,4 +67,6 @@ void glBufferData(GLenum target, GLsizei size, const void* data, GLenum usage)
 * `GL_POINTS`, `GL_LINES`, `GL_LINE_LOOP`, `GL_LINE_STRIP`
 * `GL_TRIANGLES`, `GL_TRIANGLE_STRIP`, `GL_TRIANGLE_FAN`
 
+![Primitives](https://www.oreilly.com/api/v2/epubs/9781449388133/files/httpatomoreillycomsourceoreillyimages605783.png)
+
 
