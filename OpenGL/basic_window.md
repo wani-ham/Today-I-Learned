@@ -72,7 +72,7 @@ glfwMakeContextCurrent(window);
 glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
 
 ```glewExperimental```을 ```GL_TRUE```로 설정해줘서 modern opengl의 기능을 사용할 수 있도록 한다.
-```glewInit()```은 
+```glewInit()```은 extension이 있는지, extension의 pointer를 setup을 확인한다.
 ```cpp
     // Allow modern extension features
     glewExperimental = GL_TRUE;
