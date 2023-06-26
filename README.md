@@ -6,7 +6,7 @@
 * Unity
 
 ### Frontend
-* Javascript
+* [Javascript](https://github.com/wani-ham/Today-I-Learned/blob/main/javascript/js_log.md)
 
 ### Backend
 * Django
