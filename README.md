@@ -7,6 +7,7 @@
 
 ### Frontend
 * [Javascript](https://github.com/wani-ham/Today-I-Learned/blob/main/javascript/js_log.md)
+* [React](https://github.com/wani-ham/Today-I-Learned/blob/main/react/react_log.md)
 
 ### Backend
 * Django
