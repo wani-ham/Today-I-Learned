@@ -23,8 +23,9 @@
   * 카메라가 입사각과 반사각이 동일한 그 지점에 있을 때 더 강한 instensity로 반사된다.
   * R : reflection direction, V: Viewing Direction
   * n이 높을수록 더 speculation되는 surface의 면적이 좁아진다. (cos이 더 많이 곱해지므로)
+
+$$ I_{S} = I_{i} (R \cdot V)^n $$
   
-  $$ I_{S} = I_{i} (R \cdot V)^n $$
 
 ## Interpolative Shading Techniques
 * vertice가 포함되어 있지 않은 pixel(intermediate pixel)을 계산하는 방법에는 크게 gourad shading과 phong shading이 있다. 
