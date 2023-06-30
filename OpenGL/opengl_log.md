@@ -5,3 +5,4 @@
 * [Basic Triangle](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/basic_triangle.md) - 2023.06.26
 * [Basic Shader](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/basic_shader.md) - 2023.06.26
 * [Transformation and Coordinte space](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/transformation_co-system.md) - 2023.06.28
+* [Basic Texture](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/basic_camera.md) - 2023.06.30
