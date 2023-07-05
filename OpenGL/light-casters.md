@@ -25,4 +25,4 @@ $$ F_{att} = \frac{1}{K_{C} + K_{L} d + K_{q} d^2} $$
 * Smooth/Soft edge를 주려면 inner cone, outer cone을 설정하면 됨.
 * inner cone에서 outer cone 사이의 빛은 linear interpolation을 이용하여 점진적으로 세기를 약하게 만들면 됨.
 
-![Smooth Edge](img/smmothedge.png)
+![Smooth Edge](img/smoothedge.png)
