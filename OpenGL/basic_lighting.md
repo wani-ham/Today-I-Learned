@@ -42,7 +42,7 @@ $$ I_{S} = I_{i} (R \cdot V)^n $$
 
 * Trade-off: Phong Shading은 Gourad Shading보다 computation 양이 많지만, 더 정확하다. 
 
-![Shading](shading.png)
+![Shading](img/shading.png)
 
 ## Smooth, Flat Shading
 * OpenGL에는 curved primitive가 없기 때문에 구와 같은 도형은 삼각형 polygon으로 렌더링된다.
@@ -60,5 +60,5 @@ $$ I_{S} = I_{i} (R \cdot V)^n $$
 
 * Flat, Smooth Shading을 구현하는데에는 Gourad와 Phong을 사용할 수 있다.
 
-![Flat Smooth](flat-smooth.png)
+![Flat Smooth](img/flat-smooth.png)
 

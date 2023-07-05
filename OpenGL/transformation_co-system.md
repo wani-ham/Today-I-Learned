@@ -16,6 +16,6 @@
 
 ## Coordinate Transformations
 
-![Coordinate Transformation](co-trans.png)
+![Coordinate Transformation](src/co-trans.png)
 
 (Source: learnopengl.com)
