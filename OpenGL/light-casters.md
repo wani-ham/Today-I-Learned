@@ -12,4 +12,6 @@
 * Directional Light과는 달리 source가 멀리 있지 않음.
 * 따라서, light ray들이 평행하지 않기 때문에 attenuation이 있음. (가우스 법칙이 연상됨)
 
+$$ F_{att} = \frac{1}{} $$
+
 ### 3. Spot Light
