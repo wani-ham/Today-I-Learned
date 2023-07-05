@@ -12,4 +12,4 @@
 * [Text Rendering](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/text_rendering.md) - 2023.07.04
 * [Depth Testing](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/depth_testing.md) - 2023.07.05
 * [Stencil Testing](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/stencil_testing.md) - 2023.07.05
-* [Discarding]() - 2023.07.05
+* [Face Culling](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/face-culling.md) - 2023.07.05
