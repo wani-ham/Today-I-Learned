@@ -4,7 +4,7 @@
 * [OpenGL](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/opengl_log.md)
 * [Three.js](https://github.com/wani-ham/Today-I-Learned/blob/main/threejs/threejs_log.md)
 * Unity
-* Blender
+* [Blender](https://github.com/wani-ham/Today-I-Learned/blob/main/blender/blender_log.md)
 
 ### Frontend
 * [Javascript](https://github.com/wani-ham/Today-I-Learned/blob/main/javascript/js_log.md)
