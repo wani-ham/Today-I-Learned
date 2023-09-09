@@ -14,4 +14,6 @@
 ### Backend
 * Django
 
-### Operating System
+### Low-Level
+* Operating System
+* FPGA
