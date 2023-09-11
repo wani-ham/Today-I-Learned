@@ -5,7 +5,7 @@
 * [Three.js](https://github.com/wani-ham/Today-I-Learned/blob/main/threejs/threejs_log.md)
 * Unity
 * [Blender](https://github.com/wani-ham/Today-I-Learned/blob/main/blender/blender_log.md)
-* 3D Reconstruction
+* [3D Reconstruction](https://github.com/wani-ham/Today-I-Learned/blob/main/3dReconcstruction/3drecon_log.md)
 
 ### AI / ML
 * Deep Learning
@@ -20,4 +20,4 @@
 
 ### Low-Level
 * Operating System
-* FPGA
+* [FPGA](https://github.com/wani-ham/Today-I-Learned/blob/main/FPGA/fpga_log.md)
