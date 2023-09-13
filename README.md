@@ -21,3 +21,6 @@
 ### Low-Level
 * Operating System
 * [FPGA](https://github.com/wani-ham/Today-I-Learned/blob/main/FPGA/fpga_log.md)
+
+### Et Cetera
+* [Electromagnetism](https://github.com/wani-ham/Today-I-Learned/blob/main/Electromagnetism/electromagnetism_log.md)
