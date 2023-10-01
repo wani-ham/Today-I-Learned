@@ -1,3 +1,3 @@
 ## FPGA Time log
 
-* [Basic Verilog]() - 2023.09.11
+* [Basic Verilog](https://github.com/wani-ham/Today-I-Learned/blob/main/FPGA/basic_verilog.md) - 2023.09.11
