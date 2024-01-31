@@ -5,7 +5,7 @@
 
 ### Math
 * Statistics
-* Linear Algebra
+* [Linear Algebra](https://github.com/wani-ham/Today-I-Learned/blob/main/LinearAlgebra/linear_algebra_log.md)
 
 ### Computer Graphics / Computer Vision
 * [OpenGL](https://github.com/wani-ham/Today-I-Learned/blob/main/OpenGL/opengl_log.md)
