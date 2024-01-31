@@ -4,7 +4,7 @@
 * Memory
 
 ### Math
-* Statistics
+* [Basic Statistics](https://github.com/wani-ham/Today-I-Learned/blob/main/Statistics/statistics_log.md)
 * [Linear Algebra](https://github.com/wani-ham/Today-I-Learned/blob/main/LinearAlgebra/linear_algebra_log.md)
 
 ### Computer Graphics / Computer Vision
