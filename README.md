@@ -31,3 +31,4 @@
 
 ### Et Cetera
 * [Electromagnetism](https://github.com/wani-ham/Today-I-Learned/blob/main/Electromagnetism/electromagnetism_log.md)
+* [LATEX]()
