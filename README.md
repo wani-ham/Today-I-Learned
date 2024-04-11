@@ -1,7 +1,12 @@
 # Today I Learned Wiki
 
-### Neuroscience
-* Memory
+### Frontend
+* [Javascript](https://github.com/wani-ham/Today-I-Learned/blob/main/javascript/js_log.md)
+* [React](https://github.com/wani-ham/Today-I-Learned/blob/main/react/react_log.md)
+* Figma
+
+### Backend
+* Django
 
 ### Math
 * [Basic Statistics](https://github.com/wani-ham/Today-I-Learned/blob/main/Statistics/statistics_log.md)
@@ -16,19 +21,15 @@
 
 ### AI / ML
 * Deep Learning
-
-### Frontend
-* [Javascript](https://github.com/wani-ham/Today-I-Learned/blob/main/javascript/js_log.md)
-* [React](https://github.com/wani-ham/Today-I-Learned/blob/main/react/react_log.md)
-* Figma
-
-### Backend
-* Django
+* Reinforcement Learning
 
 ### Low-Level
 * Operating System
 * [FPGA](https://github.com/wani-ham/Today-I-Learned/blob/main/FPGA/fpga_log.md)
 
+### Neuroscience
+* [Memory](https://github.com/wani-ham/memcolab_intern)
+  
 ### Et Cetera
 * [Electromagnetism](https://github.com/wani-ham/Today-I-Learned/blob/main/Electromagnetism/electromagnetism_log.md)
 * [LATEX]()
